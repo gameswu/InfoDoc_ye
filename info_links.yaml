@@ -1,0 +1,8 @@
+# 信息页面链接配置文件
+info_links:
+  readme: "https://gameswu.github.io/nya_doc/#/README"
+  function: "https://gameswu.github.io/nya_doc/#/Function"
+  FAQ: "https://gameswu.github.io/nya_doc/#/Question"
+  policy: "https://gameswu.github.io/nya_doc/#/Policy"
+  EULA: "https://gameswu.github.io/nya_doc/#/EULA"
+  plugin: "https://gameswu.github.io/nya_doc/#/Plugin"
